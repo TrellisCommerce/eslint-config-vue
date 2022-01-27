@@ -1,5 +1,5 @@
 {
-  "name": "@trellis/eslint-config",
+  "name": "@trelliscommerce/eslint-config-vue",
   "version": "0.0.0-alpha",
   "description": "An ESLint configuration file that reflects the Trellis coding standards",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/TrellisCommerce/eslint-config.git"
+    "url": "git+ssh://git@github.com/TrellisCommerce/eslint-config-vue.git"
   },
   "author": "Trellis Development Team <devteam@trellis.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TrellisCommerce/eslint-config/issues"
+    "url": "https://github.com/TrellisCommerce/eslint-config-vue/issues"
   },
-  "homepage": "https://github.com/TrellisCommerce/eslint-config#readme",
+  "homepage": "https://github.com/TrellisCommerce/eslint-config-vue#readme",
   "keywords": ["eslint", "eslintconfig"],
   "peerDependencies": {
     "eslint": ">= 3"
