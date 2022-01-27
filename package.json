@@ -1,0 +1,23 @@
+{
+  "name": "@trellis/eslint-config",
+  "version": "0.0.0-alpha",
+  "description": "An ESLint configuration file that reflects the Trellis coding standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TrellisCommerce/eslint-config.git"
+  },
+  "author": "Trellis Development Team <devteam@trellis.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrellisCommerce/eslint-config/issues"
+  },
+  "homepage": "https://github.com/TrellisCommerce/eslint-config#readme",
+  "keywords": ["eslint", "eslintconfig"],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
